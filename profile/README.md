@@ -1,29 +1,22 @@
-# 🌐 NestX Inc
+# NestX Inc
 
-Welcome to **NestX**, a next-generation social networking platform that empowers people to connect, share ideas, and express themselves freely.
-
-Our mission is to create an open, privacy-friendly, and community-driven digital space where everyone can post, discover, and engage without boundaries.
+NestX is building the next generation of social networking, a platform where people can connect, share ideas, and express themselves freely.
 
 ---
 
-### 🚀 What We’re Building
-- A modern, interactive social platform for communities and creators  
-- Privacy-focused communication and sharing tools  
+## Support Our Work
+⭐ [Sponsor us on GitHub](https://github.com/sponsors/NestXInc)  
+💖 [Support us on Open Collective](https://opencollective.com/nestx)
 
 ---
 
-### 💖 Support Our Work
-Your support helps us continue developing open and community-driven social technology.  
-👉 [Sponsor us on GitHub](https://github.com/sponsors/NestXInc)  
-👉 [Support us on Open Collective](https://opencollective.com/nestx)
+## Connect With Us
+**Website:** [https://nestx.net](https://nestx.net)  
+**GitHub:** [@NestXInc](https://github.com/NestXInc)  
+**LinkedIn:** [NestX on LinkedIn](https://www.linkedin.com/company/nestxapp)  
+**X (Twitter):** [@NestX_Official](https://x.com/NestX_Official)  
+**Email:** contact@nestx.net  
 
 ---
 
-### 🌍 Connect With Us
-- **Website:** [https://nestx.net](https://nestx.net)
-- **GitHub:** [@NestXInc](https://github.com/NestXInc)
-- **Contact:** contact@nestx.net
-
----
-
-> “Building a social world that truly belongs to people.”
+> Building a social world that truly belongs to people.
